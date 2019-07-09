@@ -1,0 +1,5 @@
+bin
+doc
+output
+vendor
+composer.lock
